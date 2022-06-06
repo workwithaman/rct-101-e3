@@ -37,7 +37,7 @@
 
 **Note** - `Make sure you use only the given data and dont create new data. Changing data might result in giving you zero marks`
 
-## Features to build
+## Features tobuild
 
 1. `/`: `Home` is a protected route, accessible post login.
 2. App should redirect to `/login`: `Login` page as soon as he visits the `/` : Home Url.
